@@ -11,7 +11,7 @@ document.getElementById("app").innerHTML = `
     <li><a href="#">Contact</a></li>
   </ul>
 </nav>
-
+<button>click</button>
 `;
 
 //クリックした時の処理の例
